@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TechLogic. I am an Software Engineer with focus on Java backend development. 
-
-You can reach me over on <a rel="me" href="https://mastodon.social/@Techlogic">Mastodon</a>
+- 👋 Hi, I’m @TechLogic. I am a Senior Software Engineer with focus on Java backend development. 
 
 <!---
 TechLogic/TechLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
